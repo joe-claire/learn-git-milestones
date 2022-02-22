@@ -269,9 +269,9 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | https://github.com/joe-claire/learn-git-milestones/tree/joe-claire-patch-2
 2c | Full path to your working directory | /Users/joeclaire/Documents/School/dig333-physical-computing
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji | 
+2e | 3rd Favorite emoji | 🤠
 2f | Link to `commit #4 from Atom` |
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page |https://github.com/joe-claire/my-awesome-project
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
 
